@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Raissa Medina Santos
+title: Name name 
 
 # Full name (for SEO)
-first_name: Raissa
-last_name: Medina Santos
+first_name: Name  
+last_name: Name Name
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post-Doc/Ingénieur de Recherche
+role: Ingénieur de Recherche
 
 # Organizations/Affiliations to show in About widget
 organizations:
