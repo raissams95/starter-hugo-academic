@@ -18,8 +18,8 @@ role: Ingénieur de Recherche
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Conservatoire National des Arts et Metiers (CNAM)
-    url: https://www.cnam.fr/
+  - name: blabla
+    url: https://www.blabla.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
