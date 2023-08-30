@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Raissa Medina Santos
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Raissa
+last_name: Medina Santos
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Post-Doc/Ingénieur de Recherche
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Conservatoire National des Arts et Metiers (CNAM)
+    url: https://www.cnam.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
