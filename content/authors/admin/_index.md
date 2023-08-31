@@ -22,12 +22,12 @@ organizations:
     url: https://www.cnam.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinformatic, genetic, biochemistry and immunology.
+bio: My research interests include bioinformatics, genetics, biochemistry and immunology.
 
 # Interests to show in About widget
 interests:
-  - Genomic
-  - Transcriptomic
+  - Genomics
+  - Transcriptomics
   - Software development
   - Biochemistry
   - Immunology
@@ -35,10 +35,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Genetic applied to Bioinformatic
+    - course: PhD in Genetics applied to Bioinformatics
       institution: Universidade Federal de Minas Gerais (Brazil)
       year: 2021
-    - course: MSc in Bioinformatic
+    - course: MSc in Bioinformatics
       institution: Universidade Federal de Minas Gerais (Brazil)
       year: 2018
     - course: BSc in Biomedical Sciences
@@ -53,9 +53,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/raissa-medina-147b481b5/
@@ -74,6 +71,7 @@ highlight_name: true
 ---
 
 I am post-doc as ingenieure de recherche (research engineer) at Conservatoire National des Arts et Métiers within the GBCM laboratory, in Paris.
-My research interests include bioinformatic, genetic, biochemistry and immunology.
+
+My research interests include bioinformatics, genetics, biochemistry and immunology.
 
 {style="text-align: justify;"}
