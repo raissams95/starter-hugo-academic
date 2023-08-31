@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Genetic applied in Bioinformatic
+    - course: PhD in Genetic applied to Bioinformatic
       institution: Universidade Federal de Minas Gerais (Brazil)
       year: 2021
     - course: MSc in Bioinformatic
