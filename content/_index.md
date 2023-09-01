@@ -15,9 +15,6 @@ sections:
     id: experience
     content:
       title: Experience
-        filters:
-          folders:
-            - pubication
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
