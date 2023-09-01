@@ -45,10 +45,7 @@ sections:
           location: Belo Horizonte, Brazil
           date_start: '2018-08-01'
           date_end: '2021-11-31'
-          description: Ph.D in Genetics applied to Bioinformatic (One-year alternating Ph.D. program at Sys2Diag - Montpellier, France, under the supervision of Franck Molina).
-    Dissertation: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess.
-    Advisor: Carlos Chavez Olortegui, LABIMQ Laboratory.
-    Others responsibilities: Responsible for certain courses in biochemistry and genetics (as a doctoral assistant) from the chair professor; Responsible for assisting and introducing activities and methodologies to new students in the laboratory.
+          description: Ph.D in Genetics applied to Bioinformatic (One-year alternating Ph.D. program at Sys2Diag - Montpellier, France, under the supervision of Franck Molina). Dissertation: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess. Advisor: Carlos Chavez Olortegui, LABIMQ Laboratory. Others responsibilities: Responsible for certain courses in biochemistry and genetics (as a doctoral assistant) from the chair professor; Responsible for assisting and introducing activities and methodologies to new students in the laboratory.
     design:
       columns: '2'
   - block: accomplishments
