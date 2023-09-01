@@ -45,8 +45,12 @@ sections:
           location: Belo Horizonte, Brazil
           date_start: '2018-08-01'
           date_end: '2021-11-30'
-          description: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess (One-year alternating Ph.D. program at Sys2Diag - Montpellier).
-          description_url: 'http://ufmg.br'
+          description: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess.
+        - title: Monitoring in biochemistry and genetics courses
+          company: Universidade Federal de Minas Gerais/One-year alternating at Sys2Diag - Montpellier
+          company_url: 'http://ufmg.br'
+          location: Belo Horizonte, Brazil
+          description: Responsible for certain courses in biochemistry and genetics (as a doctoral assistant) from the chair professor.
         - title: Higher Education Support Technician
           company: Universidade Federal de Minas Gerais
           company_url: 'https://ufmg.br'
@@ -54,13 +58,13 @@ sections:
           date_start: '2017-01-01'
           date_end: '2017-12-31'
           description: Provide technical support and assistance to faculty and students in laboratory experiments and research projects.
-        - title: Master's student
+        - title: Master's student in Bioinformatics
           company: Universidade Federal de Minas Gerais
           company_url: 'http://ufmg.br'
           location: Belo Horizonte, Brazil
           date_start: '2017-07-01'
           date_end: '2018-07-31'
-          description: Master in Bioinformatics.
+          description: Metalloproteinases diversity in the venom gland of Peruvian spider Loxosceles laeta revealed by transcriptome analysis.
         - title: Monitoring in Cytology/General Histology and Special Histology courses
           company: Universidade Fumec
           company_url: 'https://www.fumec.br'
@@ -68,13 +72,13 @@ sections:
           date_start: '2016-01-01'
           date_end: '2016-12-31'
           description: Assisting and conducting laboratory sessions and guiding students during practical exercises.
-        - title: Bachelor of Science
+        - title: Bachelor of Science in Biomedical Sciences (specialization in clinical analysis and molecular biology)
           company: Universidade Fumec
           company_url: 'https://www.fumec.br'
           location: Belo Horizonte, Brazil
           date_start: '2013-01-01'
           date_end: '2016-12-31'
-          description: BSc in Biomedical Sciences with specialization in clinical analysis and molecular biology.
+          description: Development of bioinformatics database for laboratory management.
     design:
       columns: '2'
   - block: accomplishments
