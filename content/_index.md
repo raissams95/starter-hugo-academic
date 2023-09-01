@@ -47,9 +47,11 @@ sections:
           date_end: '2021-11-30'
           description: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess.
         - title: Monitoring in biochemistry and genetics courses
-          company: Universidade Federal de Minas Gerais/One-year alternating at Sys2Diag - Montpellier
+          company: Universidade Federal de Minas Gerais
           company_url: 'http://ufmg.br'
           location: Belo Horizonte, Brazil
+          date_start: '2018-08-01'
+          date_end: '2021-11-30'
           description: Responsible for certain courses in biochemistry and genetics (as a doctoral assistant) from the chair professor.
         - title: Higher Education Support Technician
           company: Universidade Federal de Minas Gerais
@@ -72,13 +74,13 @@ sections:
           date_start: '2016-01-01'
           date_end: '2016-12-31'
           description: Assisting and conducting laboratory sessions and guiding students during practical exercises.
-        - title: Bachelor of Science in Biomedical Sciences (specialization in clinical analysis and molecular biology)
+        - title: Bachelor of Science in Biomedical Sciences 
           company: Universidade Fumec
           company_url: 'https://www.fumec.br'
           location: Belo Horizonte, Brazil
           date_start: '2013-01-01'
           date_end: '2016-12-31'
-          description: Development of bioinformatics database for laboratory management.
+          description: Specialization in clinical analysis and molecular biology and development of bioinformatics database for laboratory management.
     design:
       columns: '2'
   - block: accomplishments
