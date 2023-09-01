@@ -38,7 +38,8 @@ sections:
           location: Belo Horizonte, Brazil
           date_start: '2018-08-01'
           date_end: '2018-12-31'
-          description: Teaching Oncotic Cytology courses at the BSc in Biomedical Sciences. Assessing students' activities and performance to record their academic progress.
+          description: Teaching Oncotic Cytology courses at the BSc in Biomedical Sciences.
+          description: Assessing students' activities and performance to record their academic progress.
         - title: Ph.D student
           company: Universidade Federal de Minas Gerais
           company_url: 'http://ufmg.br'
