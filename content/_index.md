@@ -46,34 +46,6 @@ sections:
           date_start: '2018-08-01'
           date_end: '2021-11-31'
           description: Ph.D in Genetics applied to Bioinformatic (One-year alternating at Sys2Diag - Montpellier).
-        - title: Higher Education Support Technician
-          company: Universidade Federal de Minas Gerais
-          company_url: 'https://ufmg.br'
-          location: Belo Horizonte, Brazil
-          date_start: '2017-01-01'
-          date_end: '2017-12-31'
-          description: Provide technical support and assistance to faculty and students in laboratory experiments and research projects.
-        - title: Master's student
-          company: Universidade Federal de Minas Gerais
-          company_url: 'http://ufmg.br'
-          location: Belo Horizonte, Brazil
-          date_start: '2017-07-01'
-          date_end: '2018-07-31'
-          description: Master in Bioinformatics.
-        - title: Monitoring in Cytology/General Histology and Special Histology courses
-          company: Universidade Fumec
-          company_url: 'https://www.fumec.br'
-          location: Belo Horizonte, Brazil
-          date_start: '2016-01-01'
-          date_end: '2016-12-31'
-          description: Assisting and conducting laboratory sessions and guiding students during practical exercises.
-        - title: Bachelor of Science
-          company: Universidade Fumec
-          company_url: 'https://www.fumec.br'
-          location: Belo Horizonte, Brazil
-          date_start: '2013-01-01'
-          date_end: '2016-12-31'
-          description: BSc in Biomedical Sciences with specialization in clinical analysis and molecular biology.
     design:
       columns: '2'
   - block: accomplishments
