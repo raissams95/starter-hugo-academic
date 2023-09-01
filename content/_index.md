@@ -31,7 +31,7 @@ sections:
           date_start: '2021-12-01'
           date_end: ''
           description: Genomic and transcriptomic research on Chikungunya virus infection.
-          description: Advisor: Dr. Jean-François Zagury
+          Advisor: Dr. Jean-François Zagury
         - title: Professor of Oncotic Cytology
           company: Centro Universitário Metodista Izabela Hendrix
           company_url: 'http://izabelahendrix.edu.br'
