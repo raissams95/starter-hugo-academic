@@ -1,28 +1,25 @@
 ---
-title: Example Talk
+title: Bioinformatics Applied to Genomics: Characterization and Three-Dimensional Modeling of Biological Sequences
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Biomedical Week
+event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
 
-location: Wowchemy HQ
+location: Centro Universitário Metodista Izabela Hendrix
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  city: Belo Horizonte
+  country: Brazil
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'The mini-course 'Bioinformatics Applied to Genomics: Characterization and Three-Dimensional Modeling of Biological Sequences,' was taught whith the aim of to explore the application of genomics in bioinformatics.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2018-11-24T10:00:00Z'
+date_end: `#`
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-09-01T00:00:00Z'
 
 authors: []
 tags: []
