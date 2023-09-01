@@ -69,7 +69,7 @@ sections:
           description: Master in Bioinformatics.
           Dissertation: Metalloproteinases diversity in the venom gland of Peruvian spider Loxosceles laeta revealed by transcriptome analysis.
           Advisor: Carlos Chavez Olortegui, LABIMQ Laboratory
-        - title: Monitoring in Cytology/General Histology and Special Histology couses
+        - title: Monitoring in Cytology/General Histology and Special Histology courses
           company: Universidade Fumec
           company_url: 'https://www.fumec.br'
           location: Belo Horizonte, Brazil
