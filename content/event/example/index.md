@@ -15,7 +15,7 @@ abstract: 'The mini-course 'Bioinformatics Applied to Genomics: Characterization
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-11-24T10:00:00Z'
-date_end: `#`
+date_end: '#'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
