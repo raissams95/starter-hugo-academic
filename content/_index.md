@@ -31,7 +31,7 @@ sections:
           date_start: '2021-12-01'
           date_end: ''
           description: Genomic and transcriptomic research on Chikungunya virus infection.
-          Advisor: Dr. Jean-François Zagury
+          description: Advisor: Dr. Jean-François Zagury
         - title: Professor of Oncotic Cytology
           company: Centro Universitário Metodista Izabela Hendrix
           company_url: 'http://izabelahendrix.edu.br'
@@ -47,11 +47,11 @@ sections:
           date_start: '2018-08-01'
           date_end: '2021-11-31'
           description: Ph.D in Genetics applied to Bioinformatics.
-          Dissertation: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess
-          Advisor: Carlos Chavez Olortegui, LABIMQ Laboratory
-          Responsible for certain courses in biochemistry and genetics (as a doctoral assistant) from the chair professor.
-          Responsible for assisting and introducing activities and methodologies to new students in the laboratory.
-          One-year alternating Ph.D. program at Sys2Diag - Montpellier, France, under the supervision of Franck Molina.
+          description: Dissertation: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess
+          description: Advisor: Carlos Chavez Olortegui, LABIMQ Laboratory
+          description: Responsible for certain courses in biochemistry and genetics (as a doctoral assistant) from the chair professor.
+          description: Responsible for assisting and introducing activities and methodologies to new students in the laboratory.
+          description: One-year alternating Ph.D. program at Sys2Diag - Montpellier, France, under the supervision of Franck Molina.
         - title: Higher Education Support Technician
           company: Universidade Federal de Minas Gerais
           company_url: 'https://ufmg.br'
@@ -59,7 +59,7 @@ sections:
           date_start: '2017-01-01'
           date_end: '2017-12-31'
           description: Provide technical support and assistance to faculty and students in laboratory experiments and research projects.
-          Train and supervise students in laboratory safety procedures and protocols.
+          description: Train and supervise students in laboratory safety procedures and protocols.
         - title: Master's student
           company: Universidade Federal de Minas Gerais
           company_url: 'http://ufmg.br'
@@ -67,8 +67,8 @@ sections:
           date_start: '2017-07-01'
           date_end: '2018-07-31'
           description: Master in Bioinformatics.
-          Dissertation: Metalloproteinases diversity in the venom gland of Peruvian spider Loxosceles laeta revealed by transcriptome analysis.
-          Advisor: Carlos Chavez Olortegui, LABIMQ Laboratory
+          description: Dissertation: Metalloproteinases diversity in the venom gland of Peruvian spider Loxosceles laeta revealed by transcriptome analysis.
+          description: Advisor: Carlos Chavez Olortegui, LABIMQ Laboratory
         - title: Monitoring in Cytology/General Histology and Special Histology courses
           company: Universidade Fumec
           company_url: 'https://www.fumec.br'
@@ -83,7 +83,7 @@ sections:
           date_start: '2013-01-01'
           date_end: '2016-12-31'
           description: BSc in Biomedical Sciences with specialization in clinical analysis and molecular biology.
-          Theme: Development of bioinformatics database for laboratory management.
+          description: Theme: Development of bioinformatics database for laboratory management.
     design:
       columns: '2'
   - block: accomplishments
