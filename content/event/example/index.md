@@ -1,8 +1,13 @@
 ---
-title: Bioinformatics Applied to Genomics, Characterization and Three-Dimensional Modeling of Biological Sequences
+title: Example Talk
 
-event: Biomedical Week
-event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
+event: Wowchemy Conference
+event_url: https://example.org
+
+#title: Bioinformatics Applied to Genomics, Characterization and Three-Dimensional Modeling of Biological Sequences
+
+#event: Biomedical Week
+#event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
 
 location: Centro Universitário Metodista Izabela Hendrix
 address:
