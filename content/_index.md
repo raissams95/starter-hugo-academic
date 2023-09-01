@@ -46,6 +46,7 @@ sections:
           date_start: '2018-08-01'
           date_end: '2021-11-30'
           description: Composition of Peruvian Loxosceles laeta venom revealed through NGS transcriptomic analysis and the development of the computational tool PepLess (One-year alternating Ph.D. program at Sys2Diag - Montpellier).
+          description_url: 'http://ufmg.br'
         - title: Higher Education Support Technician
           company: Universidade Federal de Minas Gerais
           company_url: 'https://ufmg.br'
