@@ -39,6 +39,13 @@ sections:
           date_start: '2018-08-01'
           date_end: '2018-12-31'
           description: Teaching Oncotic Cytology courses at the BSc in Biomedical Sciences and assessing students' activities and performance to record their academic progress.
+        - title: Ph.D student
+          company: Universidade Federal de Minas Gerais
+          company_url: 'http://ufmg.br'
+          location: Belo Horizonte, Brazil
+          date_start: '2018-08-01'
+          date_end: '2021-11-30'
+          description: Ph.D in Genetics applied to Bioinformatic (One-year alternating at Sys2Diag - Montpellier).
     design:
       columns: '2'
   - block: accomplishments
