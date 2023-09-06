@@ -22,14 +22,8 @@ publication_types: ["1"]
 publication: "In *XIV Congress of the Brazilian Society of Toxinology*"
 publication_short: ""
 
-abstract: Envenomation caused by spiders from Loxosceles genus (brown spiders) is a worldwide public health problem. Loxosceles venom is composed by
-several toxins, responsible for dermonecrotic, hemorrhagic and edematogenic effects. In Peru, L. laeta is considered the most medically relevant species.
-A family of metalloproteases, also named astacin-like proteins, was described in Loxosceles venom with great importance for hemostatic disorders in 
-natural and experimental envenomations. The next generation sequencing has the power to generate much greater information than before, so its necessary 
-to use in the analysis of venom complexes. The present work aimed to describe the metalloproteinases content found in Peruvian Loxosceles laeta venom 
-gland transcriptome through next generation sequencing and to compare these sequences with other previously described spider metalloproteinases. Results 
-obtained in this work represent the first landscape of components of a Peruvian spider venom gland, revealing the complexity of molecules expressed in 
-this tissue, with great potential for future uses in medical and evolutionary studies.
+abstract: Envenomation caused by spiders from Loxosceles genus (brown spiders) is a worldwide public health problem. Loxosceles venom is composed by several toxins, responsible for dermonecrotic, hemorrhagic and edematogenic effects. In Peru, L. laeta is considered the most medically relevant species. A family of metalloproteases, also named astacin-like proteins, was described in Loxosceles venom with great importance for hemostatic disorders in natural and experimental envenomations. The next generation sequencing has the power to generate much greater information than before, so its necessary to use in the analysis of venom complexes. The present work aimed to describe the metalloproteinases content found in Peruvian Loxosceles laeta venom gland transcriptome through next generation sequencing and to compare these sequences with other previously described spider metalloproteinases. Results obtained in this work represent the first landscape of components of a Peruvian spider venom gland, revealing the complexity of molecules expressed in this tissue, with great potential for future uses in medical and evolutionary studies.
+
 
 # Summary. An optional shortened abstract.
 
