@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: " Diversity of astacin-like metalloproteases identified by transcriptomic analysis in Peruvian Loxosceles laeta spider venom and in vitro activity characterization"
 authors:
 - admin
-- Robert Ford
+- et al.,
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.biochi.2019.08.017"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Biochimie*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Loxosceles spiders are found in almost all countries of South America. In Peru, Loxosceles laeta species is the main responsible for the accidents caused by poisonous animals, being known as “killer spiders”, due to the large number of fatal accidents observed. Astacin-like metalloproteases, named LALPs (Loxosceles astacin-like metalloproteases) are highly expressed in Loxosceles spiders venom gland. These proteases may be involved in hemorrhage and venom spreading, being relevant to the envenoming proccess. Thus, the aim of this work was to analyze Peruvian L. laeta venom gland transcripts using bioinformatics tools, focusing on LALPs. A cDNA library from Peruvian L. laeta venom glands was constructed and sequenced by MiSeq (Illumina) sequencer. After assembly, the resulting sequences were annotated, seeking out for similarity with previously described LALPs. Nine possible LALPs isoforms from Peruvian L. laeta venom were identified and the results were validated by in silico and in vitro experiments. This study contributes to a better understanding of the molecular diversity of Loxosceles venom and provide insights about the action of LALPs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags:
 - Source Themes
@@ -34,21 +34,21 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # focal_point: ""
+  # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
