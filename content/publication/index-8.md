@@ -6,7 +6,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2021-11-01T00:00:00Z"
-# doi: "http://hdl.handle.net/1843/45880"
+doi: "http://hdl.handle.net/1843/45880"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "20121-11-01T00:00:00Z"
