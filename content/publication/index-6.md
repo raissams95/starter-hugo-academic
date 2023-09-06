@@ -1,16 +1,16 @@
 ---
-title: "Diversity of astacin-like metalloproteases identified by transcriptomic analysis in Peruvian Loxosceles laeta spider venom and in vitro activity characterization"
+title: "Analysis of NGS data from Peruvian Loxosceles laeta spider venom gland reveals toxin diversity"
 authors:
 - admin
-- Clara Guerra-Duarte, Sabrina de Almeida Lima, Fernanda Costal-Oliveira, Priscilla Alves de Aquino, Anderson Oliveira do Carmo, César Bonilla Ferreyra, Edgar E. Gonzalez-Kozlova, Evanguedes Kalapothakis, Carlos Chávez-Olórtegui
+- Tamara G. Fernandes Costa, Thamyres C. Silva de Assis, Yan Kalapothakis, Sabrina de Almeida Lima, Anderson Oliveira do Carmo, Edgar E. Gonzalez-Kozlova, Evanguedes Kalapothakis, Carlos Chávez-Olórtegui, Clara Guerra-Duarte
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2019-12-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.biochi.2019.08.017"
+date: "2022-08-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cbd.2022.101017"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2022-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publishDate: "2019-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biochimie*"
+publication: "*Comparative Biochemistry and Physiology Part D: Genomics and Proteomics*"
 publication_short: ""
 
-abstract: Loxosceles spiders are found in almost all countries of South America. In Peru, Loxosceles laeta species is the main responsible for the accidents caused by poisonous animals, being known as “killer spiders”, due to the large number of fatal accidents observed. Astacin-like metalloproteases, named LALPs (Loxosceles astacin-like metalloproteases) are highly expressed in Loxosceles spiders venom gland. These proteases may be involved in hemorrhage and venom spreading, being relevant to the envenoming proccess. Thus, the aim of this work was to analyze Peruvian L. laeta venom gland transcripts using bioinformatics tools, focusing on LALPs. A cDNA library from Peruvian L. laeta venom glands was constructed and sequenced by MiSeq (Illumina) sequencer. After assembly, the resulting sequences were annotated, seeking out for similarity with previously described LALPs. Nine possible LALPs isoforms from Peruvian L. laeta venom were identified and the results were validated by in silico and in vitro experiments. This study contributes to a better understanding of the molecular diversity of Loxosceles venom and provide insights about the action of LALPs.
+abstract: Accidents involving spiders from the genus Loxosceles cause medical emergencies in several countries of South America. The species Loxosceles laeta is ubiquitously present in Peru and is responsible for severe accidents in this country. To further characterize L. laeta venom components and to unveil possible variations in the Peruvian population, we provide an overview of the toxins-related transcripts present in the venom gland of Peruvian L. laeta. A dataset from a cDNA library previously sequenced by MiSeq sequencer (Illumina) was re-analyzed and the obtained data was compared with available sequences from Loxosceles toxins. Phospholipase-D represent the majority (69,28 %) of the transcripts related to venom toxins, followed by metalloproteases (20,72 %), sicaritoxins (6,03 %), serine-proteases (2,28 %), hyaluronidases (1,80 %) and Translationally Controlled Tumor Protein (TCTP) (0,56 %). New sequences of phospholipases D,sicaritoxins, hyaluronidase, TCTP and serine proteinases were described. Differences between the here-described toxin sequences and others, previously identified in venom glands from other spiders, were visualized upon sequence alignments. In addition, an in vitro hyaluronidase activity assay was also performed to complement comparisons between Peruvian and Brazilian L. laeta venom enzymatic activities, revealing a superior activity in the venom from Brazilian specimens. These new data provide a molecular basis that can help to explain the difference in toxicity among L. laeta venoms from different countries in South America.
 
 # Summary. An optional shortened abstract.
 
