@@ -1,28 +1,27 @@
 ---
-title: "Diversity of astacin-like metalloproteases identified by transcriptomic analysis in Peruvian Loxosceles laeta spider venom and in vitro activity characterization"
+title: "Composição do veneno de Loxosceles laeta peruana revelada por análise transcriptômica NGS e desenvolvimento da ferramenta computacional PepLess - EN: Composition of Peruvian Loxosceles laeta venom revealed by NGS transcriptomic analysis and development of the PepLess computational tool"
 authors:
 - admin
-- Clara Guerra-Duarte, Sabrina de Almeida Lima, Fernanda Costal-Oliveira, Priscilla Alves de Aquino, Anderson Oliveira do Carmo, César Bonilla Ferreyra, Edgar E. Gonzalez-Kozlova, Evanguedes Kalapothakis, Carlos Chávez-Olórtegui
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2019-12-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.biochi.2019.08.017"
+date: "2021-11-01T00:00:00Z"
+link: "http://hdl.handle.net/1843/45880"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2021-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biochimie*"
-publication_short: ""
+ publication: "*Thesis*"
+# publication_short: ""
 
-abstract: Loxosceles spiders are found in almost all countries of South America. In Peru, Loxosceles laeta species is the main responsible for the accidents caused by poisonous animals, being known as “killer spiders”, due to the large number of fatal accidents observed. Astacin-like metalloproteases, named LALPs (Loxosceles astacin-like metalloproteases) are highly expressed in Loxosceles spiders venom gland. These proteases may be involved in hemorrhage and venom spreading, being relevant to the envenoming proccess. Thus, the aim of this work was to analyze Peruvian L. laeta venom gland transcripts using bioinformatics tools, focusing on LALPs. A cDNA library from Peruvian L. laeta venom glands was constructed and sequenced by MiSeq (Illumina) sequencer. After assembly, the resulting sequences were annotated, seeking out for similarity with previously described LALPs. Nine possible LALPs isoforms from Peruvian L. laeta venom were identified and the results were validated by in silico and in vitro experiments. This study contributes to a better understanding of the molecular diversity of Loxosceles venom and provide insights about the action of LALPs.
+abstract: Accidents involving spiders of the Loxosceles genus are responsible for medical emergencies in several countries in South America. The species Loxosceles laeta is mainly found in Brazil and Peru, and it is responsible for an impressive number of accidents in those countries. To further characterize the components of the L. laeta venom and reveal possible variations in the particular Peruvian population, we provide an overview of the toxins present in the Peruvian L. laeta venom gland, using a cDNA library sequenced by the MiSeq sequencer (Illumina), and compared the data obtained with the transcriptome based on Expressed Sequence Tags (EST) of venom glands of Brazilian L. laeta from Fernandes-Pedrosa, 2008. The SPOT consists in the synthesis of a large number of peptides on a cellulose membrane, and it is a simple and low-cost tool for biotechnological applications and studies with large numbers of data, as is the case of the transcriptomic analysis of Peruvian L. laeta. Nevertheless, this technique becomes exhaustive when a large amount of sequences with different specifications is used, due to the extensive time taken to produce membranes and manual analysis of immunoassays, in addition to the excessive expenditure of materials and reagents. For these reasons, the PepLess tool was developed. It is an innovative device capable of selecting and analyzing a large number of sequences simultaneously, allowing a considerable reduction in the amount of membranes produced. With this system, it is possible to elaborate membranes with quality and specificity and automatically analyze the results obtained in the immunoassays. In this way, all the techniques that would previously be performed manually for the production and use of membranes for spot synthesis, can be automatic, fast and easy, allowing the generation of results with better efficiency and quality and transforming this technique into a powerful tool for complex analysis. To prove the efficiency and effectiveness of the tool, two case studies were used: The complete transcriptome analysis of Loxosceles laeta spiders of Peruvian origin and production of SPOT membrane with transcripts of the main Micrurus snakes present in South America.
 
 # Summary. An optional shortened abstract.
 
