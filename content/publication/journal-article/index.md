@@ -2,11 +2,11 @@
 title: " Diversity of astacin-like metalloproteases identified by transcriptomic analysis in Peruvian Loxosceles laeta spider venom and in vitro activity characterization"
 authors:
 - admin
-- et al.,
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Clara Guerra-Duarte, Sabrina de Almeida Lima, Fernanda Costal-Oliveira, Priscilla Alves de Aquino, Anderson Oliveira do Carmo, César Bonilla Ferreyra, Edgar E. Gonzalez-Kozlova, Evanguedes Kalapothakis, Carlos Chávez-Olórtegui
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2019-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.biochi.2019.08.017"
 
 # Schedule page publish date (NOT publication's date).
@@ -65,12 +65,12 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
