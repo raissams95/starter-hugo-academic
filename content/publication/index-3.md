@@ -1,16 +1,17 @@
 ---
-title: "Diversity of astacin-like metalloproteases identified by transcriptomic analysis in Peruvian Loxosceles laeta spider venom and in vitro activity characterization"
+title: "Performances of rapid and connected salivary RT-LAMP diagnostic test for SARS-CoV-2 infection in ambulatory screening"
 authors:
+- Francisco Santos Schneider, Laurence Molina, Marie-Christine Picot, Nicolas L’Helgoualch, Julien Espeut, Pierre Champigneux, Mellis Alali, Julie Baptiste, Lise Cardeur, Christophe Carniel, Martin Davy, Daniel Dedisse, Benjamin Dubuc, Hugo Fenech, Vincent Foulongne, Carole Fruchart Gaillard, Florence Galtier, Alain Makinson, Grégory Marin
 - admin
-- Clara Guerra-Duarte, Sabrina de Almeida Lima, Fernanda Costal-Oliveira, Priscilla Alves de Aquino, Anderson Oliveira do Carmo, César Bonilla Ferreyra, Edgar E. Gonzalez-Kozlova, Evanguedes Kalapothakis, Carlos Chávez-Olórtegui
+- David Morquin, Alimata Ouedraogo, Alexandra Prieux Lejeune, Marine Quenot, Pierre Keiflin, Francisco Checa Robles, Carolina Rodrigues Rego, Nicolas Salvetat, Charline Trento, Diana Vetter, Franck Molina & Jacques Reynes
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2019-12-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.biochi.2019.08.017"
+date: "2022-02-01T00:00:00Z"
+doi: "https://doi.org/10.1038/s41598-022-04826-7"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2022-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +20,10 @@ publishDate: "2019-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biochimie*"
+publication: "*Scientific Reports*"
 publication_short: ""
 
-abstract: Loxosceles spiders are found in almost all countries of South America. In Peru, Loxosceles laeta species is the main responsible for the accidents caused by poisonous animals, being known as “killer spiders”, due to the large number of fatal accidents observed. Astacin-like metalloproteases, named LALPs (Loxosceles astacin-like metalloproteases) are highly expressed in Loxosceles spiders venom gland. These proteases may be involved in hemorrhage and venom spreading, being relevant to the envenoming proccess. Thus, the aim of this work was to analyze Peruvian L. laeta venom gland transcripts using bioinformatics tools, focusing on LALPs. A cDNA library from Peruvian L. laeta venom glands was constructed and sequenced by MiSeq (Illumina) sequencer. After assembly, the resulting sequences were annotated, seeking out for similarity with previously described LALPs. Nine possible LALPs isoforms from Peruvian L. laeta venom were identified and the results were validated by in silico and in vitro experiments. This study contributes to a better understanding of the molecular diversity of Loxosceles venom and provide insights about the action of LALPs.
+abstract: In the context of social events reopening and economic relaunch, sanitary surveillance of SARS-CoV-2 infection is still required. Here, we evaluated the diagnostic performances of a rapid, extraction-free and connected reverse-transcription loop-mediated isothermal amplification (RT-LAMP) assay on saliva. Nasopharyngeal (NP) swabs and saliva from 443 outpatients were collected simultaneously and tested by reverse-transcription quantitative PCR (RT-qPCR) as reference standard test. Seventy-one individuals (16.0%) were positive by NP and/or salivary RT-qPCR. Sensitivity and specificity of salivary RT-LAMP were 85.9% (95%CI 77.8–94.0%) and 99.5% (98.7–100%), respectively. Performances were similar for symptomatic and asymptomatic participants. Moreover, SARS-CoV-2 genetic variants were analyzed and no dominant mutation in RT-LAMP primer region was observed during the period of the study. We demonstrated that this RT-LAMP test on self-collected saliva is reliable for SARS-CoV-2 detection. This simple connected test with optional automatic results transfer to health authorities is unique and opens the way to secure professional and social events in actual context of economics restart.
 
 # Summary. An optional shortened abstract.
 
