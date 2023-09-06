@@ -1,5 +1,4 @@
 ---
-sections:
   - block:
     title: "Diversity of astacin-like metalloproteases identified by transcriptomic analysis in Peruvian Loxosceles laeta spider venom and in vitro activity characterization"
     authors:
