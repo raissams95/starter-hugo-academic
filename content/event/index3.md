@@ -1,21 +1,21 @@
 ---
-title: Bioinformatics applied to genomics Characterization and three-dimensional modeling of biological sequences
+title: Diversity of Metalloproteases in the Venom of the Peruvian Loxosceles laeta Spider Revealed by Transcriptomic Analysis
 
-event: Izabela Hendrix Biomedical Week
-event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
+event: Bioinformatics Seminar 
+# event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
 
-location: Centro Universitário Metodista Izabela Hendrix
+location: Federal University of Minas Gerais, Brazil
 
-abstract: 'The Izabela Hendrix Methodist University Center held, on November 24th 2018, the mini-course Bioinformatics applied to genomics: characterization and three-dimensional modeling of biological sequences, taught by Dr. Raíssa Medina Santos. The aim of the mini-course was to explore the application of genomics in bioinformatics.'
+abstract: 'Spiders of the Loxosceles genus express various toxins in their venom glands, such as Phospholipases D, responsible for most of the symptoms of Loxoscelism, and Metalloproteases, which may be involved in hemorrhagic and venom dissemination actions. Numerous studies have shown that cutaneous-visceral cases, the most severe form of Loxoscelism, are primarily caused by the Loxosceles laeta spider, which is found in several South American countries, including Brazil, Peru, and Chile. Furthermore, there is nearly three times the number of fatalities related to L. laeta (P) spider bites in Peru compared to Brazil. Therefore, this present study aimed to conduct an analysis of the transcripts from the venom gland of the L. laeta (P) species using bioinformatic tools, with a specific focus on metalloproteases, as their functions have not been fully identified. The objective was to describe and characterize these metalloproteases, investigating any intraspecific differences in the venoms that could account for the increased severity of Peruvian spider bites. Nine metalloproteases from the venom of L. laeta (P) were described, and these results were validated through in silico and in vitro experiments, comparing them with the metalloproteases from the venom of the Brazilian L. laeta (B). The results revealed significant differences between the Peruvian metalloprotease sequences and all other metalloproteases from Loxosceles species, as well as differences in their in vitro activity. These preliminary findings suggest that further investigation into the action of these enzymes in Loxosceles venom could contribute to a better understanding of envenomation caused by these spiders.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-11-24T13:00:00Z'
+date: '2018-10-01T13:00:00Z'
 # date_end: '2018-11-24T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2018-11-24T00:00:00Z'
+publishDate: '2018-10-01T00:00:00Z'
 
 authors: []
 tags: []
