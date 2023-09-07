@@ -1,21 +1,21 @@
 ---
-title: Bioinformatics applied to genomics Characterization and three-dimensional modeling of biological sequences
+title: The Importance of Biomedical Professionals in Research. Bioinformatics - the Future Profession.
 
-event: Izabela Hendrix Biomedical Week
-event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
+event: The 1st Biomedicine Symposium at Fumec
+event_url: https://www.sympla.com.br/evento/i-simposio-biomedicina-excelencia-academica-e-profissional/579073
 
-location: Centro Universitário Metodista Izabela Hendrix
+location: Universidade Fumec, Brazil
 
-abstract: 'The Izabela Hendrix Methodist University Center held, on November 24th 2018, the mini-course Bioinformatics applied to genomics: characterization and three-dimensional modeling of biological sequences, taught by Dr. Raíssa Medina Santos. The aim of the mini-course was to explore the application of genomics in bioinformatics.'
+abstract: 'TIn celebration of the 15th anniversary of the Biomedicine program at FUMEC University, the organizers of the 1st Biomedicine Symposium invite all biomedical professionals, healthcare practitioners, Biomedicine students, and those interested in the subject to join us in this highly anticipated event.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-11-24T13:00:00Z'
+date: '2019-10-31T13:00:00Z'
 # date_end: '2018-11-24T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2018-11-24T00:00:00Z'
+publishDate: '2019-10-31T00:00:00Z'
 
 authors: []
 tags: []
