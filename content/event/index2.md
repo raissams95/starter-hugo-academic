@@ -1,5 +1,5 @@
 ---
-title: The Importance of Biomedical Professionals in Research. Bioinformatics - the Future Profession.
+title: The Importance of Biomedical Professionals in Research. Bioinformatics - the Future Profession
 
 event: The 1st Biomedicine Symposium at Fumec
 event_url: https://www.sympla.com.br/evento/i-simposio-biomedicina-excelencia-academica-e-profissional/579073
