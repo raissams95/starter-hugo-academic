@@ -1,5 +1,5 @@
 ---
-title: Bioinformatics applied to genomics: Characterization and three-dimensional modeling of biological sequences
+title: Bioinformatics applied to genomics Characterization and three-dimensional modeling of biological sequences
 
 event: Izabela Hendrix Biomedical Week
 event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
