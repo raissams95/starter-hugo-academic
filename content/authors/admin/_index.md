@@ -67,7 +67,7 @@ email: 'raissamedinasantos@gmail.com'
 highlight_name: true
 ---
 
-I am post-doc as ingenieure de recherche (research engineer) at Conservatoire National des Arts et Métiers within the GBCM laboratory, in Paris.
+I am post-doctoral researcher (ingenieure de recherche) at Conservatoire National des Arts et Métiers within the GBCM laboratory, in Paris.
 
 My research interests include bioinformatics, genetics, biochemistry and immunology.
 
