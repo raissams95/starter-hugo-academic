@@ -4,7 +4,7 @@ title: Bioinformatics applied to genomics Characterization and three-dimensional
 event: Izabela Hendrix Biomedical Week
 event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
 
-location: Centro Universitário Metodista Izabela Hendrix
+location: Centro Universitário Metodista Izabela Hendrix, Brazil
 
 abstract: 'The Izabela Hendrix Methodist University Center held, on November 24th 2018, the mini-course Bioinformatics applied to genomics: characterization and three-dimensional modeling of biological sequences, taught by Dr. Raíssa Medina Santos. The aim of the mini-course was to explore the application of genomics in bioinformatics.'
 
