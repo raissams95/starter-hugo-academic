@@ -21,9 +21,6 @@ organizations:
   - name: Conservatoire National des Arts et Metiers (CNAM)
     url: https://www.cnam.fr/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinformatics, genetics, molecular biology, biochemistry and immunology.
-
 # Interests to show in About widget
 interests:
   - Genomics & Transcriptomics
