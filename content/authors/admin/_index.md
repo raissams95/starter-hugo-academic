@@ -66,6 +66,4 @@ highlight_name: true
 
 I am post-doctoral researcher at Conservatoire National des Arts et Métiers within the GBCM laboratory, in Paris.
 
-My research interests include bioinformatics, genetics, molecular biology, biochemistry and immunology.
-
 {style="text-align: justify;"}
