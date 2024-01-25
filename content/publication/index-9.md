@@ -1,27 +1,28 @@
 ---
-title: "Composition of Peruvian Loxosceles laeta venom revealed by NGS transcriptomic analysis and development of the PepLess computational tool"
+title: "The identification of a large haploblock associated with the HLA-B*57 allele may explain its massive effect for HIV-1 control"
 authors:
 - admin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2021-11-01T00:00:00Z"
-doi: "http://hdl.handle.net/1843/45880"
+date: "2023-12-11T00:00:00Z"
+doi: "10.3389/fimmu.2023.1305856"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "20121-11-01T00:00:00Z"
+publishDate: "2023-12-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Thesis*"
+publication: "*Frontiers in Immunology*"
 publication_short: ""
 
-abstract: Accidents involving spiders of the Loxosceles genus are responsible for medical emergencies in several countries in South America. The species Loxosceles laeta is mainly found in Brazil and Peru, and it is responsible for an impressive number of accidents in those countries. To further characterize the components of the L. laeta venom and reveal possible variations in the particular Peruvian population, we provide an overview of the toxins present in the Peruvian L. laeta venom gland, using a cDNA library sequenced by the MiSeq sequencer (Illumina), and compared the data obtained with the transcriptome based on Expressed Sequence Tags (EST) of venom glands of Brazilian L. laeta from Fernandes-Pedrosa, 2008. The SPOT consists in the synthesis of a large number of peptides on a cellulose membrane, and it is a simple and low-cost tool for biotechnological applications and studies with large numbers of data, as is the case of the transcriptomic analysis of Peruvian L. laeta. Nevertheless, this technique becomes exhaustive when a large amount of sequences with different specifications is used, due to the extensive time taken to produce membranes and manual analysis of immunoassays, in addition to the excessive expenditure of materials and reagents. For these reasons, the PepLess tool was developed. It is an innovative device capable of selecting and analyzing a large number of sequences simultaneously, allowing a considerable reduction in the amount of membranes produced. With this system, it is possible to elaborate membranes with quality and specificity and automatically analyze the results obtained in the immunoassays. In this way, all the techniques that would previously be performed manually for the production and use of membranes for spot synthesis, can be automatic, fast and easy, allowing the generation of results with better efficiency and quality and transforming this technique into a powerful tool for complex analysis.
+abstract: Introduction: We have reanalyzed the genomic data of the International Collaboration for the Genomics of HIV (ICGH), centering on HIV-1 Elite Controllers. Methods: We performed a genome-wide Association Study comparing 543 HIV Elite Controllers with 3,272 uninfected controls of European descent. Using the latest database for imputation, we analyzed 35,552 Single Nucleotide Polymorphisms (SNPs) within the Major Histocompatibility Complex (MHC) region. Results: Our analysis identified 2,626 SNPs significantly associated (p<5. 10-8) with elite control of HIV-1 infection, including well-established MHC signals such as the rs2395029-G allele which tags HLA-B*57:01. A thorough investigation of SNPs in linkage disequilibrium with rs2395029 revealed an extensive haploblock spanning 1.9 megabases in the MHC region tagging HLA-B*57:01, comprising 379 SNP alleles impacting 72 genes. This haploblock contains damaging variations in proteins like NOTCH4 and DXO and is also associated with a strong differential pattern of expression of multiple MHC genes such as HLA-B, MICB, and ZBTB12. The study was expanded to include two cohorts of seropositive African-American individuals, where a haploblock tagging the HLA-B*57:03 allele was similarly associated with control of viral load. The mRNA expression profile of this haploblock in African Americans closely mirrored that in the European cohort. Discussion: These findings suggest that additional molecular mechanisms beyond the conventional antigen-presenting role of class I HLA molecules may contribute to the observed influence of HLA-B*57:01/B*57:03 alleles on HIV-1 elite control. Overall, this study has uncovered a large haploblock associated with HLA-B*57 alleles, providing novel insights into their massive effect on HIV-1 elite control.
+
 
 # Summary. An optional shortened abstract.
 
