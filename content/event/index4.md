@@ -1,27 +1,27 @@
 ---
-title: Diversity of Metalloproteases in the Venom of the Peruvian Loxosceles laeta Spider Revealed by Transcriptomic Analysis
+title: Comparison of transcriptome profiles between patients with chronic symptms post-chikungunya and non-chornic controls
 
-event: Bioinformatics Seminar 
-# event_url: http://izabelahendrix.edu.br/biomedicina/noticias/semana-do-biomedico-do-izabela-promove-minicurso-sobre-a-bioinformatica-aplicada-a-genomica
+event: 7th Brazilian Student Council Symposium
+# event_url: https://sites.google.com/view/rsg-brazil/projects/br-scs/7-br-scs-2023?authuser=0
 
-location: Federal University of Minas Gerais, Brazil
+location: Virtual event
 
-abstract: 'Spiders of the Loxosceles genus express various toxins in their venom glands, such as Phospholipases D, responsible for most of the symptoms of Loxoscelism, and Metalloproteases, which may be involved in hemorrhagic and venom dissemination actions. Numerous studies have shown that cutaneous-visceral cases, the most severe form of Loxoscelism, are primarily caused by the Loxosceles laeta spider, which is found in several South American countries, including Brazil, Peru, and Chile. Furthermore, there is nearly three times the number of fatalities related to L. laeta (P) spider bites in Peru compared to Brazil. Therefore, this present study aimed to conduct an analysis of the transcripts from the venom gland of the L. laeta (P) species using bioinformatic tools, with a specific focus on metalloproteases, as their functions have not been fully identified. The objective was to describe and characterize these metalloproteases, investigating any intraspecific differences in the venoms that could account for the increased severity of Peruvian spider bites. Nine metalloproteases from the venom of L. laeta (P) were described, and these results were validated through in silico and in vitro experiments, comparing them with the metalloproteases from the venom of the Brazilian L. laeta (B). The results revealed significant differences between the Peruvian metalloprotease sequences and all other metalloproteases from Loxosceles species, as well as differences in their in vitro activity. These preliminary findings suggest that further investigation into the action of these enzymes in Loxosceles venom could contribute to a better understanding of envenomation caused by these spiders.'
+abstract: 'In 2006, a severe outbreak of Chikungunya in Reunion Island was responsible for thousands of contaminations. Since then, Chikungunya has become a worldwide public health issue with the post-infection chronicity of several complex symptoms, such as rheumatoid arthritis.Ten years after the Chikungunya outbreak, we collected samples from a cohort of 136 adults (27 men and 109 women) patients presenting post-infection chronic symptoms (C) and 88 (30 men and 58 women) without post-infection chronic manifestations (NC) from La Réunion hospital. RNA-Seq was performed on purified PBMCs followed by the comparison of the mRNA gene expression profiles of the groups. Gene expression analysis identified differentially expressed genes (DEGs) based on adjusted p-value < 0.05. When comparing the two groups (C:NC), 2 092 DEGs were identified (using sex as a covariate). Since there were much more women than men in the both groups, we also performed separately the comparison C:NC between women and between men. In C woman vs NC woman comparison, 3 020 DEGs were obtained. No signal came out for the comparison between C men vs NC men. Since there was a clear sex effect for chronicity, we also looked for the differences between men and women, in the C and in the NC groups. There were 374 DEGs when comparing C women with C men, and 521 DEGs when comparing NC women with NC men, 131 genes being common between the two comparisons (a majority of these genes are on the X or Y chromosomes). Regarding symptom chronicity, among the top ten up- or down-regulated genes, several are of highly relevant, such as TRIM58, NR4A2, IGHG1, IGHG3, IGHV3-49, IGVK2-24, IL1-R2, and C3, either because they witness a TH1-type immune response (IGHG1 and IGHG3) and/or are replicated in transcriptomic studies on rheumatoid arthritis and linked with inflammation (NR4A2, IL1-R2 and C3). Unsurprisingly, pathway analysis identified virology and immunology terms. Interestingly, there was a strong association between gene expression patterns and rheumatoid arthritis among the chronic patients. In addition, a “Morphine addiction” pathway also present among the chronic patients raises an intriguing question regarding the use of opioids in the acute Chikungunya treatment and its potential influence in the progression of the disease. This study is the first on long-term symptoms following Chikungunya infection. Our findings demonstrate a strong role for immune genes in chronicity and open the possibility for a latent viral reservoir stimulating host immunity. The clear sex-based differences also suggest that men and women do not follow the same physio-pathological pathways regarding long-term symptoms following Chikungunya infection. Our data provide valuable insights into the molecular etiology and its chronic manifestations and will need to be reproduced in independent studies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-10-01T13:00:00Z'
-# date_end: '2018-11-24T15:00:00Z'
+date: '2023-11-17T13:00:00Z'
+# date_end: '2023-11-17T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2018-10-01T00:00:00Z'
+publishDate: '2023-11-17T00:00:00Z'
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
