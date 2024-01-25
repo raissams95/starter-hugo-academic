@@ -42,7 +42,7 @@ education:
     - course: MSc in Bioinformatics
       institution: Universidade Federal de Minas Gerais (Brazil)
       year: 2018
-    - course: BSc in Biomedical Sciences
+    - course: BSc in Biomedical Sciences (specialization in clinical analysis and molecular biology)
       institution: Universidade Fumec (Brazil)
       year: 2016
 
