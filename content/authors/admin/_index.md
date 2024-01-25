@@ -26,8 +26,7 @@ bio: My research interests include bioinformatics, genetics, molecular biology, 
 
 # Interests to show in About widget
 interests:
-  - Genomics
-  - Transcriptomics
+  - Genomics & Transcriptomics
   - Software development
   - Molecular Biology
   - Biochemistry
