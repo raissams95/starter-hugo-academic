@@ -1,7 +1,9 @@
 ---
 title: "The identification of a large haploblock associated with the HLA-B*57 allele may explain its massive effect for HIV-1 control"
 authors:
+- Myriam Rahmouni, Lorenzo De Marco, Jean-Louis Spadoni, Maxime Tison
 - admin
+- Taoufik Labib, Josselin Noirel, Ryad Tamouza, Sophie Limou, Olivier Delaneau, Jacques Fellay, Armand Bensussan, Sigrid Le Clerc, Paul J McLaren, Jean-François Zagury
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
