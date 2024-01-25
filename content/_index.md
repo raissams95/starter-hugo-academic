@@ -112,7 +112,7 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: raissamedinasantos@gmail.com
-      phone: +33 07 81 39 28 30
+      phone: +33 01 40 27 21 37
       address:
         street: 2, rue Conté
         city: Paris
