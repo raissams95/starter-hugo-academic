@@ -111,8 +111,8 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: raissa.medina-santos@lecnam.net
-      phone: +33 01 40 27 21 37
+      email: raissa.medina-santos@lecnam.net / raissamedinasantos@gmail.com
+      phone: +33 01 40 27 21 37 
       address:
         street: 2, rue Conté
         city: Paris
