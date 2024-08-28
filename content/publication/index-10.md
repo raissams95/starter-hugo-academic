@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-06-27T00:00:00Z"
-doi: "0.1016/j.biochi.2024.06.012"
+doi: "https://doi.org/10.1016/j.biochi.2024.06.012"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-28T00:00:00Z"
