@@ -1,21 +1,25 @@
 ---
-title: Comparison of transcriptome profiles between patients with chronic symptms post-chikungunya and non-chornic controls
+title: Transcriptomic analysis uncovering markers of chronic fatigue syndrome post-chikungunya infection
 
-event: 7th Brazilian Student Council Symposium
-# event_url: https://sites.google.com/view/rsg-brazil/projects/br-scs/7-br-scs-2023?authuser=0
+event: ISCB-Latin America SoIBio CCBCOL International Conference on Bioinformatics 2024
+# event_url: [https://sites.google.com/view/rsg-brazil/projects/br-scs/7-br-scs-2023?authuser=0](https://www.iscb.org/latam2024/home)
 
 location: Virtual event
 
-abstract: 'In 2006, a severe outbreak of Chikungunya in Reunion Island was responsible for thousands of contaminations. Since then, Chikungunya has become a worldwide public health issue with the post-infection chronicity of several complex symptoms, such as rheumatoid arthritis.Ten years after the Chikungunya outbreak, we collected samples from a cohort of 136 adults (27 men and 109 women) patients presenting post-infection chronic symptoms (C) and 88 (30 men and 58 women) without post-infection chronic manifestations (NC) from La Réunion hospital. RNA-Seq was performed on purified PBMCs followed by the comparison of the mRNA gene expression profiles of the groups. Gene expression analysis identified differentially expressed genes (DEGs) based on adjusted p-value < 0.05. When comparing the two groups (C:NC), 2 092 DEGs were identified (using sex as a covariate). Since there were much more women than men in the both groups, we also performed separately the comparison C:NC between women and between men. In C woman vs NC woman comparison, 3 020 DEGs were obtained. No signal came out for the comparison between C men vs NC men. Since there was a clear sex effect for chronicity, we also looked for the differences between men and women, in the C and in the NC groups. There were 374 DEGs when comparing C women with C men, and 521 DEGs when comparing NC women with NC men, 131 genes being common between the two comparisons (a majority of these genes are on the X or Y chromosomes). Regarding symptom chronicity, among the top ten up- or down-regulated genes, several are of highly relevant, such as TRIM58, NR4A2, IGHG1, IGHG3, IGHV3-49, IGVK2-24, IL1-R2, and C3, either because they witness a TH1-type immune response (IGHG1 and IGHG3) and/or are replicated in transcriptomic studies on rheumatoid arthritis and linked with inflammation (NR4A2, IL1-R2 and C3). Unsurprisingly, pathway analysis identified virology and immunology terms. Interestingly, there was a strong association between gene expression patterns and rheumatoid arthritis among the chronic patients. In addition, a “Morphine addiction” pathway also present among the chronic patients raises an intriguing question regarding the use of opioids in the acute Chikungunya treatment and its potential influence in the progression of the disease. This study is the first on long-term symptoms following Chikungunya infection. Our findings demonstrate a strong role for immune genes in chronicity and open the possibility for a latent viral reservoir stimulating host immunity. The clear sex-based differences also suggest that men and women do not follow the same physio-pathological pathways regarding long-term symptoms following Chikungunya infection. Our data provide valuable insights into the molecular etiology and its chronic manifestations and will need to be reproduced in independent studies.'
+abstract: 'Background: In 2005-2006, a chikungunya epidemic of unprecedented magnitude struck La Réunion, a southwestern Indian Ocean Island, causing 300,000 infections. Over time, significant public health concerns emerged due to long-lasting manifestations, particularly chronic rheumatic and chronic fatigue-related syndromes.
+Methods: To investigate the pathophysiology underlying chronic chikungunya (CC), particularly the chronic fatigue syndrome (CFS), the CHIKGene study was initiated. Blood samples were collected from 133 individuals who experienced chronic symptoms, with 58 of them presenting persistent chronic fatigue-like symptoms, 11 to 14 years after exposure. RNA-Seq was performed on purified PBMCs followed by the comparison of the mRNA gene expression profiles between CFS and CC.
+Results: Gene expression analysis between CFS and CC individuals identified only three differentially expressed genes (DEGs): EGR1, EGR2, and FOSB, all down-regulated in CFS compared to CC. These genes are linked to mood disorders, schizophrenia and stress-related conditions, indicating a possible connection between psychiatric disorders and chronic chikungunya. Metascape pathway analysis revealed significant immune response-related terms predominantly overexpressed in CC. DisGeNET analysis highlighted mood disorder-related pathways, also involving ACE and PTGS2 genes, both associated with CFS.
+Conclusions: This study identified key DEGs and pathways in individuals with CFS linked to CC. Down-regulation of genes associated with mood disorders and immune response alterations in CFS suggests a novel genetic correlation with the chronicity of chikungunya. These findings emphasize the importance of these genetic markers in understanding, diagnosing and potentially developing therapies for long-term chikungunya effects, particularly its impact on mental health and immune function.
+Keywords: chikungunya, chronic fatigue syndrome, gene expression, transcriptomics'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-17T13:00:00Z'
-# date_end: '2023-11-17T15:00:00Z'
+date: '2024-11-14T17:00:00Z'
+# date_end: '2024-11-14T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-11-17T00:00:00Z'
+publishDate: '2024-11-25T00:00:00Z'
 
 authors: []
 tags: []
