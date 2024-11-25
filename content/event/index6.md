@@ -1,8 +1,8 @@
 ---
 title: Transcriptomic analysis uncovering markers of chronic fatigue syndrome post-chikungunya infection
 
-event: ISCB-Latin America SoIBio CCBCOL International Conference on Bioinformatics 2024
-# event_url: [https://sites.google.com/view/rsg-brazil/projects/br-scs/7-br-scs-2023?authuser=0](https://www.iscb.org/latam2024/home)
+event: Latin American Student Council Symposium 2024
+# event_url: [[https://sites.google.com/view/rsg-brazil/projects/br-scs/7-br-scs-2023?authuser=0](https://www.iscb.org/latam2024/home)](https://wp.iscbsc.org/la-scs2024/)
 
 location: Virtual event
 
@@ -14,8 +14,8 @@ Keywords: chikungunya, chronic fatigue syndrome, gene expression, transcriptomic
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-14T17:00:00Z'
-# date_end: '2024-11-14T18:00:00Z'
+date: '2024-11-12T20:00:00Z'
+# date_end: '2024-11-12T21:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
