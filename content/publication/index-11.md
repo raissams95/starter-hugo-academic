@@ -1,17 +1,17 @@
 ---
-title: "The identification of a large haploblock associated with the HLA-B*57 allele may explain its massive effect for HIV-1 control"
+title: "Deep analysis of the major histocompatibility complex genetic associations using covariate analysis and haploblocks unravels new mechanisms for the molecular etiology of Elite Control in AIDS"
 authors:
-- Myriam Rahmouni, Lorenzo De Marco, Jean-Louis Spadoni, Maxime Tison
+- Myriam Rahmouni, Sigrid Le Clerc, Jean-Loius Spadoni, Taoufik Labib, Maxime Tison
 - admin
-- Taoufik Labib, Josselin Noirel, Ryad Tamouza, Sophie Limou, Olivier Delaneau, Jacques Fellay, Armand Bensussan, Sigrid Le Clerc, Paul J McLaren, Jean-François Zagury
+- Armand Bensussan, Ryad Tamouza, Jean-Fraçois Deleuze, Jean-François Zagury
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-12-11T00:00:00Z"
-doi: "10.3389/fimmu.2023.1305856"
+date: "2025-01-06T00:00:00Z"
+doi: "https://doi.org/10.1186/s12865-024-00680-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-11T00:00:00Z"
+publishDate: "2025-01-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,11 +20,10 @@ publishDate: "2023-12-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Immunology*"
+publication: "*BMC Immunology*"
 publication_short: ""
 
-abstract: We have reanalyzed the genomic data of the International Collaboration for the Genomics of HIV (ICGH), centering on HIV-1 Elite Controllers. We performed a genome-wide Association Study comparing 543 HIV Elite Controllers with 3,272 uninfected controls of European descent. Using the latest database for imputation, we analyzed 35,552 Single Nucleotide Polymorphisms (SNPs) within the Major Histocompatibility Complex (MHC) region. Our analysis identified 2,626 SNPs significantly associated (p<5. 10-8) with elite control of HIV-1 infection, including well-established MHC signals such as the rs2395029-G allele which tags HLA-B*57:01. A thorough investigation of SNPs in linkage disequilibrium with rs2395029 revealed an extensive haploblock spanning 1.9 megabases in the MHC region tagging HLA-B*57:01, comprising 379 SNP alleles impacting 72 genes. This haploblock contains damaging variations in proteins like NOTCH4 and DXO and is also associated with a strong differential pattern of expression of multiple MHC genes such as HLA-B, MICB, and ZBTB12. The study was expanded to include two cohorts of seropositive African-American individuals, where a haploblock tagging the HLA-B*57:03 allele was similarly associated with control of viral load. The mRNA expression profile of this haploblock in African Americans closely mirrored that in the European cohort. These findings suggest that additional molecular mechanisms beyond the conventional antigen-presenting role of class I HLA molecules may contribute to the observed influence of HLA-B*57:01/B*57:03 alleles on HIV-1 elite control. Overall, this study has uncovered a large haploblock associated with HLA-B*57 alleles, providing novel insights into their massive effect on HIV-1 elite control.
-
+abstract: Introduction: We have reanalyzed the genomic data from the International Collaboration for the Genomics of HIV (ICGH), focusing on HIV-1 Elite Controllers (EC). Methods: A genome-wide association study (GWAS) was performed, comparing 543 HIV-1 EC individuals with 3,272 uninfected controls (CTR) of European ancestry. 8 million single nucleotide polymorphisms (SNPs) and HLA class I and class II gene alleles were imputed to compare EC and CTR. Results: Two thousand six hundred twenty-six SNPs were associated with EC (p<5.10-8), all located within the Major Histocompatibility Complex (MHC) region. Stepwise regression analysis narrowed this list to 17 SNPs. In parallel, 22 HLA class I and II alleles were associated with EC. Through meticulous mapping of the LD between all identified signals and employing reciprocal covariate analyses, we delineated a final set of 6 independent SNPs and 3 HLA class I gene alleles that accounted for most of the associations observed with EC. Our study revealed the presence of cumulative haploblock effects (SNP rs9264942 contributing to the HLA-B*57:01 effect) and that several HLA allele associations were in fact caused by SNPs in linkage disequilibrium (LD). Upon investigating SNPs in LD with the selected 6 SNPs and 3 HLA class I alleles for their impact on protein function (either damaging or differential expression), we identified several compelling mechanisms potentially explaining EC among which: a multi-action mechanism of HLA-B*57:01 involving MICA mutations and MICB differential expression overcoming the HIV-1 blockade of NK cell response, and overexpression of ZBTB12 with a possible anti-HIV-1 effect through HERV-K interference; a deleterious mutation in PPP1R18 favoring viral budding associated with rs1233396. Conclusion: Our results show that MHC influence on EC likely extends beyond traditional HLA class I or class II allele associations, encompassing other MHC SNPs with various biological impacts. They point to the key role of NK cells in preventing HIV-1 infection. Our analysis shows that HLA-B*57:01 is indeed associated with partially functional MICA/MICB proteins which could also explain this marker's involvement in other diseases such as psoriasis. More broadly, our findings suggest that within any HLA class I and II association in diseases, there may exist distinct causal SNPs within this crucial, gene-rich, and LD-rich MHC region.
 
 # Summary. An optional shortened abstract.
 
