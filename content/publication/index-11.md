@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*BMC Immunology*"
 publication_short: ""
 
-abstract: We have reanalyzed the genomic data from the International Collaboration for the Genomics of HIV (ICGH), focusing on HIV-1 Elite Controllers (EC).
+abstract: We have reanalyzed the genomic data from the International Collaboration for the Genomics of HIV (ICGH), focusing on HIV-1 Elite Controllers (EC). A genome-wide association study (GWAS) was performed, comparing 543 HIV-1 EC individuals with 3,272 uninfected controls (CTR) of European ancestry. 8 million single nucleotide polymorphisms (SNPs) and HLA class I and class II gene alleles were imputed to compare EC and CTR.
 
 # Summary. An optional shortened abstract.
 
