@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*BMC Immunology*"
 publication_short: ""
 
-abstract: -
+abstract: We have reanalyzed the genomic data from the International Collaboration for the Genomics of HIV (ICGH), focusing on HIV-1 Elite Controllers (EC).
 
 # Summary. An optional shortened abstract.
 
