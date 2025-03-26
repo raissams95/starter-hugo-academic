@@ -1,5 +1,5 @@
 ---
-title: "Pepless: A Computational Tool Developed to Optimize Spot Synthesis and Analyze Related Immunoassay Data"
+title: "Transcriptomic analysis of chronic chikungunya in the Reunionese CHIKGene cohort uncovers a shift in gene expression more than 10 years after infection"
 authors:
 - Patrick Gérardin
 - admin
