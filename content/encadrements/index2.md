@@ -1,12 +1,11 @@
 ---
-title: The Importance of Biomedical Professionals in Research - Bioinformatics
+title: Encadrement de travaux de recherche (TER) en Licence (troisième année) de Biologie
 
-event: The 1st Biomedicine Symposium at Fumec
-event_url: https://www.sympla.com.br/evento/i-simposio-biomedicina-excelencia-academica-e-profissional/579073
+Nom : Eduarda Fernandes
+Sujet : Identification d’épitopes sur le transcriptome du scorpion Hadruroides
+Résultats : Les résultats préliminaires des épitopes ont servi de base pour la suite de son parcours (master
 
-location: Universidade Fumec, Brazil
-
-abstract: 'TIn celebration of the 15th anniversary of the Biomedicine program at FUMEC University, the organizers of the 1st Biomedicine Symposium invite all biomedical professionals, healthcare practitioners, Biomedicine students, and those interested in the subject to join us in this highly anticipated event.'
+location: Université Fédérale de Minas Gerais, Brazil
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
