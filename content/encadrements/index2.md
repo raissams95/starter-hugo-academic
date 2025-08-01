@@ -1,9 +1,9 @@
 ---
-title: Encadrement de travaux de recherche (TER) en Licence (troisième année) de Biologie
+title: Licence en Biologie
 
-Nom : Eduarda Fernandes
-Sujet : Identification d’épitopes sur le transcriptome du scorpion Hadruroides
-Résultats : Les résultats préliminaires des épitopes ont servi de base pour la suite de son parcours (master
+nom : Eduarda Fernandes
+sujet : Identification d’épitopes sur le transcriptome du scorpion Hadruroides
+résultats : Les résultats préliminaires des épitopes ont servi de base pour la suite de son parcours (master
 
 location: Université Fédérale de Minas Gerais, Brazil
 
