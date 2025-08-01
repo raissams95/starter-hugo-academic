@@ -104,6 +104,16 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: encadrements
+    content:
+      title: Encadrements
+      filters:
+        folders:
+          - encadrements
+    design:
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
