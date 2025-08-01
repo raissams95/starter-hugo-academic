@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Encadrements
 cms_exclude: true
 
 # View.
