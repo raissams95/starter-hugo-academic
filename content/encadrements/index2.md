@@ -5,8 +5,8 @@ location: Université Fédérale de Minas Gerais, Brazil
 
 nom: 'Eduarda Fernandes - 2019'
 
-sujet: "Identification d’épitopes sur le transcriptome du scorpion Hadruroides""
-résultats: "Les résultats préliminaires des épitopes ont servi de base pour la suite de son parcours (master)""
+sujet: 'Identification d’épitopes sur le transcriptome du scorpion Hadruroides'
+résultats: 'Les résultats préliminaires des épitopes ont servi de base pour la suite de son parcours (master)'
 
 
 # Talk start and end times.
