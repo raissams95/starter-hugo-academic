@@ -8,8 +8,8 @@ featured: false
 summary: "" 
 ---
 
-2019 - **Eduarda Fernandes** (Université Fédérale de Minas Gerais, Brazil)
+**Eduarda Fernandes** (Université Fédérale de Minas Gerais, Brazil) - 2019.
 
-Sujet du stage : Identification d’épitopes sur le transcriptome du scorpion *Hadruroides*
+Sujet du stage : Identification d’épitopes sur le transcriptome du scorpion *Hadruroides*.
 
 Résultats : Les résultats préliminaires des épitopes ont servi de base pour la suite de son parcours (master).
