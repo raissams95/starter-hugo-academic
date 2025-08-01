@@ -1,7 +1,7 @@
 ---
 title: Licence en Biologie
 
-location: Université Fédérale de Minas Gerais, Brazil
+location: "Université Fédérale de Minas Gerais, Brazil"
 
 nom: 'Eduarda Fernandes - 2019'
 
