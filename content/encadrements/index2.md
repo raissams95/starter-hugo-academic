@@ -1,23 +1,23 @@
 ---
 title: Licence en Biologie
 event: "Stage de Licence"
-location: "Université Fédérale de Minas Gerais, Brazil"
-authors: ["Eduarda Fernandes"]
 date: '2019-10-31T13:00:00Z'
 publishDate: '2019-10-31T00:00:00Z'
 all_day: false
 featured: false
-tags: ["transcriptome", "scorpion", "épitopes", "bioinformatique"]
 ---
+
+## Nom
+Eduarda Fernandes - 2019
+
+## Location
+
+Université Fédérale de Minas Gerais, Brazil
 
 ## Sujet du stage
 
-**Identification d’épitopes sur le transcriptome du scorpion _Hadruroides_**
-
-## Résumé
-
-Ce projet de licence mené par Eduarda Fernandes en 2019 avait pour objectif l’identification d’épitopes potentiels à partir du transcriptome d’un scorpion du genre *Hadruroides*, dans une perspective d’immunogénicité.
+Identification d’épitopes sur le transcriptome du scorpion Hadruroides
 
 ## Résultats
 
-Les résultats préliminaires des épit
+Les résultats préliminaires des épitopes ont servi de base pour la suite de son parcours (master).
