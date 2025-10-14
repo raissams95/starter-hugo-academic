@@ -1,5 +1,5 @@
 ---
-title: Encadrements
+title: Supervisions
 cms_exclude: true
 
 # View.
