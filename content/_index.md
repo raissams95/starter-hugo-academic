@@ -107,7 +107,7 @@ sections:
   - block: collection
     id: encadrements
     content:
-      title: Encadrements
+      title: Supervisions
       filters:
         folders:
           - encadrements
