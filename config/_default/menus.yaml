@@ -16,8 +16,8 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Encadrements
-    url: '#encadrements'
+  - name: Supervisions
+    url: '#supervisions'
     weight: 50
   - name: Contact
     url: '#contact'
