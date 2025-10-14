@@ -1,9 +1,8 @@
 ---
 title: "Identification of gene–sun exposure interactions of GWAS-identified variants in perceived facial aging progression"
 authors:
-- Ludivine Obry
 - admin
-- Myriam Rahmouni, Josselin Noirel, Toufik Labib, Pilar Galan, Jean-Louis Spadoni, Gaëlle Gendronneau, Randa Jdid, Sandra Courrèges, Julie Latreille, Nada André, Jean-François Zagury and Sigrid Le Clerc
+- Ludivine Obry, Myriam Rahmouni, Josselin Noirel, Toufik Labib, Pilar Galan, Jean-Louis Spadoni, Gaëlle Gendronneau, Randa Jdid, Sandra Courrèges, Julie Latreille, Nada André, Jean-François Zagury and Sigrid Le Clerc
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
