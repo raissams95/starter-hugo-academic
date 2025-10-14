@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Supervisions
 cms_exclude: true
 
 # View.
