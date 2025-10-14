@@ -1,9 +1,8 @@
 ---
 title: "Transcriptomic analysis of chronic chikungunya in the Reunionese CHIKGene cohort uncovers a shift in gene expression more than 10 years after infection"
 authors:
-- Patrick Gérardin
 - admin
-- Sigrid Le Clerc, Léa Bruneau, Adrien Maillot, Taoufik Labib, Myriam Rahmouni, Jean-Louis Spadoni, Jean-Philippe Meyniel, Clémence Cornet, Cécile Lefebvre, Nora El Jahrani, Jakub Savara, Mano Joseph Mathew, Christine Fontaine, Christine Payet, Nathalie Ah-You, Cécile Chabert, Corinne Mussard, Sylvaine Porcherat, Samir Medjane, Josselin Noirel, Catherine Marimoutou, Hakim Hocini, Jean-François Zagury
+- Patrick Gérardin, Sigrid Le Clerc, Léa Bruneau, Adrien Maillot, Taoufik Labib, Myriam Rahmouni, Jean-Louis Spadoni, Jean-Philippe Meyniel, Clémence Cornet, Cécile Lefebvre, Nora El Jahrani, Jakub Savara, Mano Joseph Mathew, Christine Fontaine, Christine Payet, Nathalie Ah-You, Cécile Chabert, Corinne Mussard, Sylvaine Porcherat, Samir Medjane, Josselin Noirel, Catherine Marimoutou, Hakim Hocini, Jean-François Zagury
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
