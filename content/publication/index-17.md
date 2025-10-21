@@ -1,13 +1,13 @@
 ---
 title: "The HLA-B*57:01 haplotype, genetic key linking innate immunity and longevity"
 authors:
-- Myriam Rahmouni, Cristina Giuliani, Daniela Colucci, Nicolás Mendoza Mejía, Samuel Hiet, Marco Lamanda, Jean-Louis Spadoni, Sigrid Le Clerc, Taoufik Labib, Matilde Manetti, Maxime Tison,
+- Myriam Rahmouni, Cristina Giuliani, Daniela Colucci, Nicolás Mendoza Mejía, Samuel Hiet, Marco Lamanda, Jean-Louis Spadoni, Sigrid Le Clerc, Taoufik Labib, Matilde Manetti, Maxime Tison
 - admin
 - Paolo Garagnani, Alexandre How-Kit, Armand Bensussan, Marianne Nygaard, Kaare Christensen, Almut Nebel, Jean- François Deleuze, Jean-François Zaguryi
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025-12-01T00:00:00Z"
+date: "2025-12-10T00:00:00Z"
 doi: "http://dx.doi.org/10.14336/AD.2025.1109"
 
 # Schedule page publish date (NOT publication's date).
