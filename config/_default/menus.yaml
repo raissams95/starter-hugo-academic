@@ -22,7 +22,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: CV
+  - name: CV (French)
     url: uploads/resume.pdf
     weight: 70
     
